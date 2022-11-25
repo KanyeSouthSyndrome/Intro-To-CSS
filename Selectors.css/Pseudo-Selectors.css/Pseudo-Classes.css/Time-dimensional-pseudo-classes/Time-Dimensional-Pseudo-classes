@@ -1,0 +1,10 @@
+These pseudo-classes apply when viewing something which has timing, such as a WebVTT caption track.
+
+:current
+Represents the element or ancestor of the element that is being displayed.
+
+:past
+Represents an element that occurs entirely before the :current element.
+
+:future
+Represents an element that occurs entirely after the :current element.

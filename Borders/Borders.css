@@ -1,0 +1,40 @@
+h1 {
+  border-width: 5px;
+  border-style: solid;
+}
+h2 {
+  border-style: dotted;
+}
+h3 {
+  border-style: dashed;
+}
+h4 {
+  border-style: groove;
+}
+h5 {
+  border-style: ridge;
+}
+h6 {
+  border-style: Inset;
+}
+div {
+  border-style: Outset;
+}
+article {
+  border-style: None;
+}
+address {
+  border-style: Hidden;
+}
+p {
+  border-style: double;
+}
+
+em {
+  border-top-left-radius: ;
+  border-top-right-radius: ;
+  border-top-color: ;
+  border-top-width: ;
+  border-top-style: ;
+}
+/*Refer to above <em> for styling [left,right,&bottom] sides of a container/box*/

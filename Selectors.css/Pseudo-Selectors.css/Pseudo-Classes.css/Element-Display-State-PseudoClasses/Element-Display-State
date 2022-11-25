@@ -1,0 +1,10 @@
+These pseudo-classes enable the selection of elements based on their display states.
+
+:fullscreen
+Matches an element that is currently in fullscreen mode.
+
+:modal
+Matches an element that is in a state in which it excludes all interaction with elements outside it until the interaction has been dismissed.
+
+:picture-in-picture
+Matches an element that is currently in picture-in-picture mode.

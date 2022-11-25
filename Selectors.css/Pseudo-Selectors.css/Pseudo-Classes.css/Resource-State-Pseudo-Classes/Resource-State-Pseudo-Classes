@@ -1,0 +1,7 @@
+These pseudo-classes apply to media that is capable of being in a state where it would be described as playing, such as a video.
+
+:playing
+Represents a media element that is capable of playing when that element is playing.
+
+:paused
+Represents a media element that is capable of playing when that element is paused.

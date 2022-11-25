@@ -1,0 +1,29 @@
+body {
+  background-color: dimgray;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: white;
+  font-family: sans-serif;
+}
+/*All 6 headers are now shite with a shared font family
+accomplishing the same task with less code
+beautifies/simplifies css*/
+div,
+address {
+  color: peru;
+}
+p,
+article {
+  color: maroon;
+}
+div {
+  font-weight: bolder;
+}
+Address {
+  font-style: italic;
+}

@@ -1,0 +1,17 @@
+p {
+  text-indent: 50px;
+  /*the first line of the Lorem Ipsum paragraph will be indented by 50px*/
+}
+h1 {
+  letter-spacing: 1.5px;
+  /*All letters within h1 are spaced/margined by 1.5 pixels*/
+}
+h2 {
+  line-height: 1;
+  /*Changes the distance between rows in a body of text,
+  the smaller the value the less margin between text lines
+  the greater the value the more*/
+  text-shadow: (2px /*X Axis*/, 2px /*Y axis*/ 4px /*Spread Value/#*/) #000;
+  /*Creates Text shadows
+  stylish...ig*/
+}

@@ -1,0 +1,8 @@
+These pseudo-classes reflect the document language and enable the selection of elements based on language or script direction.
+
+:dir()
+The directionality pseudo-class selects an element based on its directionality as determined by the document language.
+
+:lang()
+Select an element based on its content language.
+

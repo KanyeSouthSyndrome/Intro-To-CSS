@@ -1,0 +1,13 @@
+What is Specificity?
+There is a hierarchical reorganization when .css is interpreted
+-If two or more .css edits pull on the same .html element for changes,
+  the 'selector' with the highest *Specificity Value* wins.
+
+How does Specificity work?
+I.Specificity Values
+Ia.Inline Styles[Value of 1,000]
+Ib.ID's[Value of 100]
+Ic.Class/Psuedo-Classes/Attribute Selectors
+  -[Value of 10]
+Id.Elements/Pseudo-Elements
+  -[Value of 1]

@@ -1,0 +1,7 @@
+.aclass {
+  color: crimson;
+}
+/*All classes with the name [aclass] will be colored crimson
+Classes can be used many times throughout an html file
+ie;[h2 & p]
+Differing from id's which can only be used once throughout the html file*/

@@ -1,0 +1,8 @@
+SumSelector {
+  border-radius: 3px;
+}
+/**Units of measurement
+work better than percentages in defining a border radius attribute*/
+SumSelectorI {
+  border-radius: 35%;
+}

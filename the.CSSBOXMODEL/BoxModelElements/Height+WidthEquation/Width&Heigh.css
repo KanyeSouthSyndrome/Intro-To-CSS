@@ -1,0 +1,23 @@
+div{
+  width: 333px;
+  border: 33px solid blue;
+  padding: 33px solid red;
+  margin: 66px
+}
+/*Total-width{
+=[Left padding]
++[Right padding]
++[Left border]
++[Right border]
++[Left margin]
++[Right margin]
+}
+
+/*Total-height{
+=[Top padding]
++[Bottom padding]
++[Top border]
++[Bottom border]
++[Top margin]
++[Bottom margin]
+}

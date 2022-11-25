@@ -1,0 +1,6 @@
+.h1/*The [.] symbol is a selector command, 
+grabbing the html container that is to be styled.*/ {
+  /*Everything between these curly brackets in known as a DECLARATION*/
+  color/*property tag*/
+  : blue; /*value tag*/
+}

@@ -1,0 +1,9 @@
+#cclass {
+  color: white;
+}
+/*ID's are selected using the prefix[#]*/
+#bclass {
+  color: brown;
+}
+/*Only one unique ID class name can be attributes to an element at a time
+ie;two different html elements cannot be assigned the same unique css ID*/

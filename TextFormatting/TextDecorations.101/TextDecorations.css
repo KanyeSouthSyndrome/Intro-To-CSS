@@ -1,0 +1,22 @@
+h1 {
+  color: dodgerblue;
+  text-align: Justify;
+  /*justify will evently distribute all content to the sides of the page/viewport/view container*/
+
+  text-decoration: overline;
+  /*This is going to place a horizontal line over the header container*/
+}
+
+p {
+  color: maroon;
+}
+
+h2 {
+  text-decoration: line-through;
+  /*Creates a strikethrough/line-through the text within h2*/
+}
+
+a/*Grabs/Selects all anchor elements within the .html*/ {
+  text-decoration: none;
+  /*Removes all text decorations from selected content/container*/
+}

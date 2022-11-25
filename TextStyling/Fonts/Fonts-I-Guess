@@ -1,0 +1,15 @@
+[q]Is HTML really programming? or is it a simple language only used to setup the skeleton of a webpage.
+[note 2 self] create a directory of useful colour codes
+[notes]Changing Font Styles with Css                      
+-Sans Serif looks good on the web[refer below]            
+-font-family: font name;
+[note to self] Place 2 or 3 fonts, the first in the order is most important, the other fonts as a safeguard in case a web browser cannot read the most preffered aka specified font.
+{fonts.google.com}
+[notes]To add fonts/font-families to a project, include the embed/link code in the <head> container alongside any meta data
+[note] change the {font-style} such as italics
+[note] change the {font-weight} such as bold
+[note] change the {text-decoration} such as underline      
+change style of underline such as [refer to line 10]
+{text-decoration: dotted underline;} or
+{text-decoration: maroon wavy underline;}  
+[note] font size15px[change font size this way]

@@ -1,0 +1,42 @@
+button {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-block-end: 10px;
+  margin-block-start: 10px;
+  margin-inline-end: 10px;
+  margin-inline-start: 10px;
+  margin-block: 10px;
+  margin-inline: 10px;
+  margin-trim: 10px;
+}
+h1 {
+  /* Single Value- Add Pixels to all sides*/
+  margin: 33px;
+}
+h2 {
+  /* 2 Values-
+   1st value adds pixels to top & bottom[33px]
+   2nd value adds pixels to left & right[66px]
+  */
+  margin: 33px, 66px;
+}
+h3 {
+  /* 3 Values-
+   1st value adds pixels to top[33px]
+   2nd value adds pixels to left & right[66px]
+   3rd value adds pixels to bottom[99px]
+  */
+  margin: 33px, 66px, 99px;
+}
+h4 {
+  /* 4 Values-
+   1st value adds pixels to top[33px]
+   2nd value adds pixels to right[66px]
+   3rd value adds pixels to bottom[99px]
+   4th value adds pixels to left[33px
+   clockwise motion, beginning at 12:00]
+  */
+  margin: 33px, 66px, 99px, 33px;
+}

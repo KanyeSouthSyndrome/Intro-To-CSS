@@ -1,0 +1,13 @@
+These pseudo-classes accept a forgiving selector list as a parameter.
+
+:is()
+The matches-any pseudo-class matches any element that matches any of the selectors in the list provided.
+
+:not()
+The negation, or matches-none, pseudo-class represents any element that is not represented by its argument.
+
+:where()
+The specificity-adjustment pseudo-class matches any element that matches any of the selectors in the list provided without adding any specificity weight.
+
+:has()
+The relational pseudo-class represents an element if any of the relative selectors match when anchored against the attached element.

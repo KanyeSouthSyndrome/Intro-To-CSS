@@ -1,0 +1,37 @@
+These pseudo-classes relate to the location of an element within the document tree.
+
+:root
+Represents an element that is the root of the document. In HTML this is usually the <html> element.
+
+:empty
+Represents an element with no children other than white-space characters.
+
+:nth-child
+Uses An+B notation to select elements from a list of sibling elements.
+
+:nth-last-child
+Uses An+B notation to select elements from a list of sibling elements, counting backwards from the end of the list.
+
+:first-child
+Matches an element that is the first of its siblings.
+
+:last-child
+Matches an element that is the last of its siblings.
+
+:only-child
+Matches an element that has no siblings. For example, a list item with no other list items in that list.
+
+:nth-of-type
+Uses An+B notation to select elements from a list of sibling elements that match a certain type from a list of sibling elements.
+
+:nth-last-of-type
+Uses An+B notation to select elements from a list of sibling elements that match a certain type from a list of sibling elements counting backwards from the end of the list.
+
+:first-of-type
+Matches an element that is the first of its siblings, and also matches a certain type selector.
+
+:last-of-type
+Matches an element that is the last of its siblings, and also matches a certain type selector.
+
+:only-of-type
+Matches an element that has no siblings of the chosen type selector.

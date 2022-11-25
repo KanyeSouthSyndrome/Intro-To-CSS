@@ -1,0 +1,52 @@
+These pseudo-classes relate to form elements, and enable selecting elements based on HTML attributes and the state that the field is in before and after interaction.
+
+:autofill
+Matches when an <input> has been autofilled by the browser.
+
+:enabled
+Represents a user interface element that is in an enabled state.
+
+:disabled
+Represents a user interface element that is in a disabled state.
+
+:read-only
+Represents any element that cannot be changed by the user.
+
+:read-write
+Represents any element that is user-editable.
+
+:placeholder-shown
+Matches an input element that is displaying placeholder text. For example, it will match the placeholder attribute in the <input> and <textarea> elements.
+
+:default
+Matches one or more UI elements that are the default among a set of elements.
+
+:checked
+Matches when elements such as checkboxes and radio buttons are toggled on.
+
+:indeterminate
+Matches UI elements when they are in an indeterminate state.
+
+:blank
+Matches a user-input element which is empty, containing an empty string or other null input.
+
+:valid
+Matches an element with valid contents. For example, an input element with the type 'email' that contains a validly formed email address or an empty value if the control is not required.
+
+:invalid
+Matches an element with invalid contents. For example, an input element with type 'email' with a name entered.
+
+:in-range
+Applies to elements with range limitations. For example, a slider control when the selected value is in the allowed range.
+
+:out-of-range
+Applies to elements with range limitations. For example, a slider control when the selected value is outside the allowed range.
+
+:required
+Matches when a form element is required.
+
+:optional
+Matches when a form element is optional.
+
+:user-invalid
+Represents an element with incorrect input, but only when the user has interacted with it.

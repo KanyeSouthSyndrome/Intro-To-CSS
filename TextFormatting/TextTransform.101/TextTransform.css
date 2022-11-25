@@ -1,0 +1,19 @@
+h1 {
+  text-transform: uppercase;
+  /*Edits all selected text[ie:h1] to be uppercase 
+  <h1>
+  TEXT FORMATTING
+  </h1>*/
+}
+h2 {
+  text-transform: lowercase;
+  /*Edits all selected text[ie:h2] to be lowercase
+  <h2>
+  text formatting
+  </h2>*/
+}
+p {
+  text-decoration: capitalize;
+  /*Edits all text within the selected paragraph elements to begin with capital letters
+  aka all strings within content container of <p> will begin with capital letters.*/
+}

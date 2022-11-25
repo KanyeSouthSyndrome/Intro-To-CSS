@@ -1,0 +1,17 @@
+ul {
+  max-height: 200px;
+}
+/*defines the maximum height the css is pulling*/
+ol {
+  max-height: 200px;
+  overflow: hidden;
+  /*now all the overflow text that exceeds the maximum height of 200 px is hidden*/
+}
+.ol1 {
+  max-height: 200px;
+  overflow: scroll;
+  /*Gives the user to scroll content within the {ol1} container, 
+  staying within the 200px height paramater*/
+}
+
+{MAX HEIGHT & OVERFLOW CREATE DYNAMIC CONTAINERS OF INFORMATION}

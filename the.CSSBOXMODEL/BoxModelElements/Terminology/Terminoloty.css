@@ -1,0 +1,14 @@
+/*
+I.Box Model Elements
+  IA.Content[The content of the box/container]{ie;Text, Images, Iframes, Forms, Etc...}
+  IB.Padding[Clears an area around the content, seperating the content from the border if applied]{useful for spacing & styling}
+  IC.Border[A border that wraps around the Padding & Content]
+  ID.Margin[Clears an area that wraps around the border]{Final layer of the container/box}
+*/
+div {
+  width: 333px;
+  border: 33px solid blue;
+  padding: 33px solid red;
+  margin: 66px;
+}
+/*For width & height calculation refer to directory*/

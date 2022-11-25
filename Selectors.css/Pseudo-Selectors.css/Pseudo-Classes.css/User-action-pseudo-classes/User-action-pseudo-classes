@@ -1,0 +1,16 @@
+These pseudo-classes require some interaction by the user in order for them to apply, such as holding a mouse pointer over an element.
+
+:hover
+Matches when a user designates an item with a pointing device, such as holding the mouse pointer over the item.
+
+:active
+Matches when an item is being activated by the user. For example, when the item is clicked on.
+
+:focus
+Matches when an element has focus.
+
+:focus-visible
+Matches when an element has focus and the user agent identifies that the element should be visibly focused.
+
+:focus-within
+Matches an element to which :focus applies, plus any element that has a descendant to which :focus applies.

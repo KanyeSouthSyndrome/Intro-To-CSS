@@ -1,0 +1,9 @@
+ul{
+  background-color: tomato;
+  max-height: 200px;
+  min-height: 100px;
+  overflow:scroll;
+}
+{THE MINIMUM HEIGHT DEFINES MINIMUM HEIGHT OF CONTAINER 
+ONCE the maximum has been overflowed, the scroll attributes is activated 
+giving the user a dynamic and contained set of information}
